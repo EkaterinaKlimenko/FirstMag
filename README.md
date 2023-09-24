@@ -1,0 +1,2 @@
+# FirstMag
+Repository for university 
